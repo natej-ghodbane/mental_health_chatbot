@@ -19,7 +19,7 @@ A simple, console-based chatbot that helps answer mental health questions using 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/natej-ghodbane/mental-health-chatbot.git
+git clone https://github.com/natej-ghodbane/mental_health_chatbot.git
 cd mental-health-chatbot
 ```
 
