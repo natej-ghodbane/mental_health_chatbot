@@ -48,6 +48,14 @@ You can generate this from the original `counselchat-data.csv` using a cleaning 
 python chatbot.py
 ```
 
+### 5. Optional: Run the Web Version (Streamlit)
+
+If you prefer a browser-based chatbot interface, use:
+
+```bash
+streamlit run streamlit.py
+```
+
 ---
 
 ## 💬 Example Usage
@@ -79,6 +87,7 @@ python chatbot.py
 ```
 .
 ├── chatbot.py              # Main chatbot script
+├── streamlit.py            # Streamlit web version of the chatbot
 ├── counselchat_final.csv   # Cleaned mental health Q&A dataset
 ├── requirements.txt        # Python dependencies
 └── README.md               # This file
@@ -96,5 +105,5 @@ If you're in crisis or need urgent help, please seek assistance from a licensed 
 
 ## 🙋‍♀️ Author
 
-Built with ❤️ by Natej Ghodbane 
+Built with ❤️ by Natej Ghodbane  
 Feel free to contribute, report issues, or fork the project!
