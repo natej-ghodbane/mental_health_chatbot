@@ -3,3 +3,4 @@ sentence-transformers
 deep-translator
 langdetect
 torch
+streamlit
